@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TUZTqmvVRALPYK+uNqDFJ+GVaaIgTTM7/9VOv+NTq1bqOqDBFahiWmPRJhIGEIJI6iZzSoteZfmzYlqE/1wIAQ==",
+  "dgSpecHash": "qVHWH6U68CLUacv991qaFfa7l8aVVWfivKWIVL7c9/0K2bQkqd9UrhgP8WW6xc4faW4w/B0QVPFO5KJhuYwfAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darlin\\Desktop\\proyecto\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darlin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Darlin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

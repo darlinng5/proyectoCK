@@ -34,7 +34,7 @@ namespace Aplication.Pedido
             {
                 RuleFor(x => x.idCliente).NotEmpty();
                 RuleFor(x => x.idPedido).NotEmpty();
-                RuleFor(x => x.DetallePedido.Count > 0);
+              
                
             }
         }
@@ -67,7 +67,7 @@ namespace Aplication.Pedido
                     var listaDetalles = request.DetallePedido;                  
                     foreach(var item in listaDetalles)
                     {
-                        
+                        item.idPedido = 1;//OJO CAMBIAR ESTE ID PARA QUE LO TOME DEL NUEVO QUE ACABA DE CREAR   
                         _context.DetallePedido.Add(item);
                         await _context.SaveChangesAsync();
                     }

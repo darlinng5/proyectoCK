@@ -5987,11 +5987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darlin\\Desktop\\proyecto\\Aplication\\Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Aplication\\Aplication.csproj",
       "projectName": "Aplication",
-      "projectPath": "C:\\Users\\Darlin\\Desktop\\proyecto\\Aplication\\Aplication.csproj",
+      "projectPath": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Aplication\\Aplication.csproj",
       "packagesPath": "C:\\Users\\Darlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darlin\\Desktop\\proyecto\\Aplication\\obj\\",
+      "outputPath": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6008,11 +6008,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Darlin\\Desktop\\proyecto\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Darlin\\Desktop\\proyecto\\Domain\\Domain.csproj"
+            "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Darlin\\Desktop\\proyecto\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Darlin\\Desktop\\proyecto\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Darlin\\Documents\\GitHub\\proyectoCK\\proyecto\\Persistence\\Persistence.csproj"
             }
           }
         }
